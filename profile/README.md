@@ -22,11 +22,6 @@ Welcome to the **Dead Rails Script** repository! 🚆🔥 This script provides p
 3️⃣ **Inject the Script**: Copy and paste the script into your executor and press **Execute** 🚀✅  
 4️⃣ **Enjoy!** The script features will now be activated! 🎉🔥  
 
-## 📜 Script Example
-```lua
-loadstring(game:HttpGet("https://your-script-url.com/script.lua", true))()
-```
-
 ## ⚠️ Disclaimer
 🚨 **Use at your own risk!** 🚨
 
